@@ -12,12 +12,12 @@ Real-Time Tracker is a web application that allows users to share their location
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Dushyantgoswami/real-time-tracker.git
+    git clone https://github.com/Dushyantgoswami/real-time-location-tracker.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd real-time-tracker
+    cd real-time-location-tracker
     ```
 
 3. Install the dependencies:
