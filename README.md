@@ -29,7 +29,7 @@ Real-Time Tracker is a web application that allows users to share their location
 
 1. Start the server:
     ```sh
-    npm start
+    node app.js
     ```
 
 2. Open your browser and go to:
